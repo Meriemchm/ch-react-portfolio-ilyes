@@ -39,7 +39,7 @@ const Projects = () => {
                 key={id}
                 className="shadow-md shadow-gray-600 bg-white rounded-lg  duration-200 hover:scale-105"
               >
-                <img src={src} alt="" className="rounded-md h-52 w-full object-cover" />
+                <img src="" alt="" className="rounded-md h-52 w-full object-cover" />
 
                 <div className="flex flex-col items-start justify-start text-gray-800 mx-5 my-4 ">
                   <h2 className="text-bold capitalize">{title}</h2>

@@ -48,7 +48,7 @@ const Skills = () => {
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
             Skills
           </p>
-          <p className="py-6">These are the technologies I work with</p>
+          <p className="py-6">These are the tools I work with.</p>
         </div>
         {/* backend */}
        <Skill Title="Back-end" data={backendTechs}/>
